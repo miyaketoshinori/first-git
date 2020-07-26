@@ -1,5 +1,5 @@
 <?php
-    $result = '無し';
+    $result = '無しだ！！';
 ?>
 <!DOCTYPE html>
 <html lang="ja">
