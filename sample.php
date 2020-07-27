@@ -1,5 +1,5 @@
 <?php
-    $result = '無し';
+    $result = '無し2';
     if (array_key_exists('act', $_POST)) {
         $result = omikuji();
     }
